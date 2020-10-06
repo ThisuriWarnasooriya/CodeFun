@@ -1,0 +1,19 @@
+.transbox {
+    margin: 150px;
+    background-color: white;
+    border: 1px solid black;
+    opacity: 0.7;
+  }
+  
+.transbox {
+    margin: 20%;
+    font-weight: bold;
+    color: black;
+  }
+
+.logo {
+  left: 10px;
+  top: 10px;
+  width: 150px;
+}
+
